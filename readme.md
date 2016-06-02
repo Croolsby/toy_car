@@ -7,3 +7,7 @@ The car is unfinished. For example, the script requires game objects representin
 
 ![Wireframe](http://i.imgur.com/g2yPnVW.jpg)
 ![Driving](http://i.imgur.com/Ti5NsQr.gif)
+
+As a bonus, this Unity project includes a little script to help with terrain editing. It makes game objects respond to edits made to the terrain.
+
+![RespondToTerrainEdits](http://i.imgur.com/QnOE1ks.gif)
